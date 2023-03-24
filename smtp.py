@@ -1,3 +1,5 @@
+#Sending emails via SMTP 
+
 import smtplib as sm
 import getpass as gp
 
